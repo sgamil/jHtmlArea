@@ -4,7 +4,7 @@
  * Licensed under the Microsoft Reciprocal License (Ms-RL)
  * http://jhtmlarea.codeplex.com/license
 */
-/* just to test GIT */
+/* JUST TO TEST GIT */
 EXAMPLE USAGE:
 -----------------------
 See "Default.htm" for example usages.
